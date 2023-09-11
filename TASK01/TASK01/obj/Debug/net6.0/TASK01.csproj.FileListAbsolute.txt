@@ -1,0 +1,15 @@
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\bin\Debug\net6.0\TASK01.exe
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\bin\Debug\net6.0\TASK01.deps.json
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\bin\Debug\net6.0\TASK01.runtimeconfig.json
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\bin\Debug\net6.0\TASK01.dll
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\bin\Debug\net6.0\TASK01.pdb
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\TASK01.csproj.AssemblyReference.cache
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\TASK01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\TASK01.AssemblyInfoInputs.cache
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\TASK01.AssemblyInfo.cs
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\TASK01.csproj.CoreCompileInputs.cache
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\TASK01.dll
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\refint\TASK01.dll
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\TASK01.pdb
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\TASK01.genruntimeconfig.cache
+C:\Users\Adobe AI\source\repos\TASK01\TASK01\obj\Debug\net6.0\ref\TASK01.dll
